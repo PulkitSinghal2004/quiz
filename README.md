@@ -23,7 +23,7 @@ This project is an interactive quiz platform built with React, offering users an
 1.  **Clone the Repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/PulkitSinghal2004/quiz.git
     ```
 
 2.  **Navigate to the Project Directory:**
@@ -64,7 +64,7 @@ This project is an interactive quiz platform built with React, offering users an
 
 The deployed application can be accessed at:
 
-[https://YOUR_DEPLOYED_APP_LINK.com](https://YOUR_DEPLOYED_APP_LINK.com)  # Replace with your actual deployed link
+[https://quiz-livid-ten.vercel.app/](https://quiz-livid-ten.vercel.app/) 
 
 ## Contributing
 
