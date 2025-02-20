@@ -16,13 +16,14 @@ This project is an interactive quiz platform built with React, offering users an
 
 *   React
 *   (Potentially other libraries you use, e.g., for state management, UI components, etc.  List them here.)
+*   Tailwind CSS for styling
 
 ## Getting Started
 
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)  # Replace with your repo URL
+    git clone 
     ```
 
 2.  **Navigate to the Project Directory:**
@@ -69,6 +70,4 @@ The deployed application can be accessed at:
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
 
-(Add a license if applicable, e.g., MIT License)
